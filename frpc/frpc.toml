@@ -1,5 +1,5 @@
 serverAddr = ""
-serverPory = "6060"
+serverPort = 6060
 
 auth.method = "token"
 auth.token = "auth_token"
