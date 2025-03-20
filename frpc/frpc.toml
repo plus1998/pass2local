@@ -3,3 +3,10 @@ serverPort = 6060
 
 auth.method = "token"
 auth.token = "auth_token"
+
+[[proxies]]
+name = "demo"
+type = "tcp"
+localIP = "127.0.0.1"
+localPort = 7001
+remotePort = 7001
