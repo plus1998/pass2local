@@ -1,0 +1,5 @@
+serverAddr = "119.91.225.127"
+serverPory = "6060"
+
+auth.method = "token"
+auth.token = "shizhan123"
