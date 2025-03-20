@@ -1,4 +1,4 @@
 bindPort = 6060
 
 auth.method = "token"
-auth.token = "shizhan123"
+auth.token = "auth_token"
